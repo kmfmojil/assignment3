@@ -1,6 +1,6 @@
 # Assignment 3
 
-![Assignment 3](https://github.com/PGE383-HPC/assignment3-solution/workflows/.github/workflows/main.yml/badge.svg)
+![Assignment 3](https://github.com/PGE383-HPC/assignment3/workflows/.github/workflows/main.yml/badge.svg)
 
 The aim of this assignment is to continue familiarization basic Unix commands, in particular the `find` command.
 
